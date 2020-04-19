@@ -1,0 +1,8 @@
+debug
+.vscode
+*.exe
+vendor/*
+go.sum
+.idea/
+main
+txt.txt
